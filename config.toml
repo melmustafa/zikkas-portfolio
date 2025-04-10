@@ -1,0 +1,40 @@
+baseURL = "https://zikkas.dev/"
+title = "zikkas"
+theme = "re-terminal"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+pagination.pagerSize = 5
+
+[params]
+author = "Mohammed El-Mustafa Ahmed"
+description = "Mathematican and Backend/System Engineer"
+themeColor = "green"
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 1
+
+[[menu.main]]
+name = "Roadmaps"
+url = "/roadmaps/"
+weight = 2
+
+[[menu.main]]
+name = "Books"
+url = "/books/"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
+
+[params.social]
+github = "https://github.com/melmustafa"
+linkedin = "https://linkedin.com/in/mohammed-el-mustafa-ahmed"
+email = "me@zikkas.dev"
