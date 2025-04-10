@@ -5,6 +5,10 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 pagination.pagerSize = 5
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
 [params]
 author = "Mohammed El-Mustafa Ahmed"
 description = "Mathematican and Backend/System Engineer"
