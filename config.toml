@@ -3,11 +3,12 @@ title = "zikkas"
 theme = "re-terminal"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+
 pagination.pagerSize = 5
 
-[caches]
-[caches.images]
-dir = ':cacheDir/images'
+caches.images.dir = ':cacheDir/images'
+
+languages.en.params.readMore = "Read More"
 
 [params]
 author = "Mohammed El-Mustafa Ahmed"
