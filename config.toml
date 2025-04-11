@@ -14,10 +14,12 @@ author = "Mohammed El-Mustafa Ahmed"
 description = "Mathematican and Backend/System Engineer"
 themeColor = "green"
 ShowReadingTime = true
+owner = "zikkas"
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 readMore = "Read More"
+menuMore = "Show More"
 [params.logo]
 logoText = "zikkas"
 
