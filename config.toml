@@ -8,7 +8,6 @@ pagination.pagerSize = 5
 
 caches.images.dir = ':cacheDir/images'
 
-languages.en.params.readMore = "Read More"
 
 [params]
 author = "Mohammed El-Mustafa Ahmed"
@@ -18,6 +17,9 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
+readMore = "Read More"
+[params.logo]
+logoText = "zikkas"
 
 [[menu.main]]
 name = "Blog"
